@@ -1,1 +1,1 @@
-# Sri-Lankan_Robotics_Challenges
+# Sri-Lankan_Robotics_Challenge
